@@ -29,6 +29,6 @@ https://github.com/acenelio/workshop-javafx-jdbc/blob/master/src/gui/About.fxml
 https://github.com/acenelio/demo-dao-jdbc/blob/master/src/model/entities/Department.java
 
 https://github.com/acenelio/demo-dao-jdbc/blob/master/database.sql
-
 https://github.com/acenelio/demo-dao-jdbc
+
 
