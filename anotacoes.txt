@@ -1,0 +1,29 @@
+-> Eclipse
+- File 
+  - New 
+    - Other 
+      - JavaFx (JavaFx Project) 
+        - nome 
+          - next 
+            - Aba Library (modulepath) - add library - user library (Java Fx e My SQL Conection)
+-> Botao direto Main
+  - Run as 
+   - configuration
+      - Aba arguments
+        - vm arguments: 
+          --module-path C:\java-libs\javafx-sdk\lib --add-modules=javafx.fxml,javafx.controls
+
+-> Na pasta do projeto no Explorer
+- Botao direito - git bash here
+  - git init
+  - git remote add origin https://github.com/Luccifa/workshop-javafx-jdbc.git
+  - git checkout -b main
+  - git pull origin main
+- git status
+- git add .
+- git commit -m "Local project created"
+- git push -u origin main
+
+===
+https://github.com/acenelio/workshop-javafx-jdbc/blob/master/src/gui/About.fxml
+https://github.com/acenelio/demo-dao-jdbc/blob/master/src/model/entities/Department.java
